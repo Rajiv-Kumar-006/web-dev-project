@@ -1,2 +1,2 @@
-# web-dev-project
-this is my first git repository
+# web-dev-project 
+project of html and css
